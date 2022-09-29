@@ -1,0 +1,8 @@
+datasets==2.3.2
+detectron2==0.6+cu113
+huggingface-hub==0.8.1
+numpy==1.21.6
+scikit-learn==1.0.2
+torch==1.10.0
+torchvision==0.11.0
+transformers==4.12.5
